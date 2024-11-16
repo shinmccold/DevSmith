@@ -1,6 +1,6 @@
 # DevSmith
 
-A developer utility web application that provides helpful tools and utilities in a VS Code-inspired interface.
+A developer utility web application that provides helpful tools and utilities for Web and VS Code developers(coming soon).
 
 ## Features
 
