@@ -1,102 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <!-- Homepage -->
-    <url>
-        <loc>https://devsmith.vercel.app/</loc>
-        <lastmod>2024-03-20</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-        <description>Free and open source tools for JSON to YAML conversion, string utilities, and more</description>
-        <keywords>free tools, open source, json to yaml converter, string utils, stringify, online converters</keywords>
-    </url>
 
-  <!-- Converters -->
-  <url>
-    <loc>https://devsmith.vercel.app/convert/json-to-yaml</loc>
-    <lastmod>2024-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <description>Convert JSON to YAML online - Free JSON to YAML converter tool</description>
-    <keywords>json to yaml, yaml converter, convert json yaml, json yaml online converter</keywords>
-  </url>
+<url>
+  <loc>https://dev-smith.vercel.app/</loc>
+  <lastmod>2024-11-16T03:41:16+00:00</lastmod>
+</url>
 
-  <url>
-    <loc>https://devsmith.vercel.app/convert/yaml-to-json</loc>
-    <lastmod>2024-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <description>Convert YAML to JSON online - Free YAML to JSON converter tool</description>
-    <keywords>yaml to json, json converter, convert yaml json, yaml json online converter</keywords>
-  </url>
 
-  <!-- String Utils -->
-  <url>
-    <loc>https://devsmith.vercel.app/utils/string-escape</loc>
-    <lastmod>2024-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <description>Escape and unescape strings with special characters</description>
-    <keywords>string escape, string unescape, escape special characters, string converter</keywords>
-  </url>
-
-  <!-- Formatters -->
-  <url>
-    <loc>https://devsmith.vercel.app/format/code</loc>
-    <lastmod>2024-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <description>Format and prettify code with syntax highlighting</description>
-    <keywords>code formatter, code beautifier, prettify code, format code online</keywords>
-  </url>
-
-  <url>
-    <loc>https://devsmith.vercel.app/format/json</loc>
-    <lastmod>2024-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <description>Format and validate JSON data</description>
-    <keywords>json formatter, json validator, prettify json, format json online</keywords>
-  </url>
-
-  <!-- Encoders & Decoders -->
-  <url>
-    <loc>https://devsmith.vercel.app/encode/base64</loc>
-    <lastmod>2024-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <description>Encode and decode Base64 strings online</description>
-    <keywords>base64 encoder, base64 decoder, encode base64, decode base64</keywords>
-  </url>
-
-  <url>
-    <loc>https://devsmith.vercel.app/decode/url</loc>
-    <lastmod>2024-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <description>Encode and decode URLs online</description>
-    <keywords>url decoder, url encoder, decode url, encode url</keywords>
-  </url>
-
-  <!-- Generators -->
-  <url>
-    <loc>https://devsmith.vercel.app/generate/uuid</loc>
-    <lastmod>2024-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <description>Generate UUIDs (Universally Unique Identifiers) online</description>
-    <keywords>uuid generator, generate uuid, create uuid, unique id generator</keywords>
-  </url>
-
-  <url>
-    <loc>https://devsmith.vercel.app/generate/password</loc>
-    <lastmod>2024-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <description>Generate secure random passwords online</description>
-    <keywords>password generator, generate password, create password, secure password</keywords>
-  </url>
 </urlset>
